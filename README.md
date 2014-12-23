@@ -1,4 +1,4 @@
-Astadia Coding Standards
+Astadia Coding Standards & Documentation
 ================
 
 Astadia coding standards &amp; best practices
